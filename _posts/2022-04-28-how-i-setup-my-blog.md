@@ -4,7 +4,7 @@ categories:
   - Blogging
 ---
 # Goal
-Have simple and effective blog.
+Have a simple and effective blog.
 
 # Jekyll blog
 
