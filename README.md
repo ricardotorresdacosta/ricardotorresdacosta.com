@@ -1,1 +1,1 @@
-This is my personal blog, available at [torresdacosta.com](https://torresdacosta.com). It's built with Jekyll and started off with a [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes).
+This is my personal blog, available at [torresdacosta.com](https://torresdacosta.com). It's built with [Jekyll](https://jekyllrb.com/) and started off with a [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes).
