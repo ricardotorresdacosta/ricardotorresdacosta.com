@@ -1,10 +1,6 @@
 ---
-title: "Standard post"
-classes: wide
+title: "How to Create Content for my Blog"
 categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
+  - Blogging
 ---
+

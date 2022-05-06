@@ -1,13 +1,18 @@
+---
+title: "How I Setup my Blog"
+categories:
+  - Blogging
+---
 # Goal
 Have simple and effective blog.
 
-## Jekyll blog
+# Jekyll blog
 
-### Quickstart on exhisting project
-Locally
+## Quickstart on exhisting project
+### Locally
 1. Go into root folder (currently /media/ric/root/repos/blog) and run `bundle exec jekyll server --livereload -P 4000`
 
-### Installation process
+## Installation process
 
 1. update Jekyll installation locally
    - Follow [Jekyll's Ubuntu's guide](https://jekyllrb.com/docs/installation/ubuntu/)
@@ -43,20 +48,27 @@ Locally
   
     - Edit the _config.yml to change the sample content with your own.
 
+    - favicon
+      - went to https://realfavicongenerator.net/, uploaded a .png image and then extracted the package into the folder `/assets/images/`.
+      - added the produced `html` to `_includes/head/custom.html`
 
 4. Make it available online
    1. Github pages ...
    2. Namecheap ...
-    I'M HERE
+   3. DNS between cool domain and github repo
+   4. Create email server
+      1. Google Workspace
+      2. Zoho
+    
 
-    - DNS between cool domain and ricardoptcosta.github.io
+   
+    
 
     
 # TODO:
-      - investigate the layouts page and pick the best one and figure out how to configure it https://mmistakes.github.io/minimal-mistakes/docs/layouts/
-      - put the blog online with a note saying this will be the future blog
-      - add the basics to the page
-      - see how to display blog posts as a grid
-      - see how add header image to blog post
-      - this _config seems very complete https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
-      - gain more control over CI/CD by learing how to deploy Jekyll with [CI/CD tool](https://jekyllrb.com/docs/deployment/), probably [GitHub Actions](https://jekyllrb.com/docs/continuous-integration/github-actions/) 
+  
+   - investigate the layouts page and pick the best one and figure out how to configure it https://mmistakes.github.io/minimal-mistakes/docs/layouts/
+   - see how to display blog posts as a grid
+   - see how add header image to blog post
+   - this _config seems very complete https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
+   - gain more control over CI/CD by learing how to deploy Jekyll with [CI/CD tool](https://jekyllrb.com/docs/deployment/), probably [GitHub Actions](https://jekyllrb.com/docs/continuous-integration/github-actions/) 

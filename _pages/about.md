@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm the gardener in this little digital garden. You can call me Ric but most people call me Ricardo. I'm a software engineer, writer, speaker and investor with a focus on Cloud Native technologies and Security. I currently spend most of my time playing around with Kubernetes, Operators and setting up POCs for terrible ideas! 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I spend my time in between London and Porto. I am a happily married father of one.
+
+On a previously life I studied and worked on the Economics field. I completed a BSc in Economics from University College London and a MSc in Economics for Development from Oxford University. I worked as an Economist at the Ministry of Education of Mozambique and at the World Bank. 
+
+At some point, I realised I had too much creative energy and looking at my career I couldn't see how I would ever deploy it. This made me take a gamble and move into entrepeneurship. I started and ran Dalbek, an e-commerce startup, for a few years. During my tenure managing it I was exposed to the magic of software engineering. The bug was seeded and in 2019 I finalised the sale of my business after what felt like a very long road-show to investors.
+
+
+
+Ricardo co-founded in 2014 the e-commerce startup Dalbek and delivered a successful exit in 2019. 
