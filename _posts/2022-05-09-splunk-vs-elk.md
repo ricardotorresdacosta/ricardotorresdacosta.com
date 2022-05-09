@@ -4,7 +4,7 @@ categories:
   - Observability
 ---
 
-ELK and Splunk are log management and analysis tools commonly used by enterprises. Here is a list of a few differences and similarities.
+Splunk and ELK are log management and analysis tools commonly used by enterprises. Here is a list of a few differences and similarities.
 
 ||![Splunk logo](/assets/images/splunk-vs-elk/splunk-black-white-bg.webp)|![ELK logo](/assets/images/splunk-vs-elk/elk.webp)|
 |-------|------|---|
