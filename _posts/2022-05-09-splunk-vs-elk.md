@@ -6,7 +6,7 @@ categories:
 
 ELK and Splunk are log management and analysis tools commonly used by enterprises. Here is a list of a few differences and similarities.
 
-||Splunk|ELK|
+||![Splunk logo](/assets/images/splunk-vs-elk/splunk-black-white-bg.webp)|![ELK logo](/assets/images/splunk-vs-elk/elk.webp)|
 |-------|------|---|
 |Ease of use|Intuitive UI. Customised dashboard for different users. Supported on mobile devices|Kibana is the tool in the ELK stack concerned with visualisation. It is intuitive as well while showcasing fewer features|
 |User Manageement|Yes|Kibana does not support user management but hosted solutions do|
