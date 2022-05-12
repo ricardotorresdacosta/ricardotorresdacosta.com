@@ -1,5 +1,5 @@
 ---
-title: "What are Non-Functional Requirements? A brief explanation and an overview of some"
+title: "What are Non-Functional Requirements? A brief explanation"
 categories:
   - Software Architecture
   - Enterprise Architecture
