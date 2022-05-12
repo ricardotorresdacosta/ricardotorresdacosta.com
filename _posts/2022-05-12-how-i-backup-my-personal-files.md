@@ -19,10 +19,10 @@ $ sudo rsync -aivP --delete-after /media/ric/root/ \
 ```
 
 I have it in a bash file which I call whenever I want to synchronize my local machine's hard drive at `/media/ric/root/` with my Toshiba's external hard drive which I mount at `/media/ric/TOSHIBA\ EXT/root`. With some help from the man pages, the explanation of the flags I use is as follows:
-- \--archive, -a            archive mode includes a number of common options all in one. In particular, it preserves timestamps, performs a recursive copy, keeps all file and directory permissions, preserves owner and group information, and copies any symbolic links
-- \--itemize-changes, -i    output a change-summary for all updates, ie, it tells you what was done to each file
-- -v                       verbose :)
-- -P                       keeps partially transferred files and shows progress during the transfer
-- \--log-file=FILE          this is the location where the logs from everything that is done are stored
+- `--archive`, `-a`            archive mode includes a number of common options all in one. In particular, it preserves timestamps, performs a recursive copy, keeps all file and directory permissions, preserves owner and group information, and copies any symbolic links
+- `--itemize-changes`, `-i`    output a change-summary for all updates, ie, it tells you what was done to each file
+- `-v`                         verbose :)
+- `-P`                         keeps partially transferred files and shows progress during the transfer
+- `--log-file=FILE`            this is the location where the logs from everything that is done are stored
 
 Hope you find this useful. It made me much happier and more relaxed in my managing of personal files. No more crawling for hours trying to find where I put the photos from 2005 at King's Head pub!
