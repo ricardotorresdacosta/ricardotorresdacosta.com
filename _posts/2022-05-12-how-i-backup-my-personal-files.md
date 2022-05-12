@@ -1,5 +1,10 @@
 ---
 title: "How I backup my personal files"
+header:
+  teaser: assets/images/personal-backups/jandira-sonnendeck-AcW1ZwD-qC0-unsplash.jpg
+  overlay_image: assets/images/personal-backups/jandira-sonnendeck-AcW1ZwD-qC0-unsplash.jpg
+  overlay_filter: 0.5
+excerpt: ""
 categories:
   - Tips
   - Personal Organization

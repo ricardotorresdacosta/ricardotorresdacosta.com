@@ -2,6 +2,11 @@
 title: "How do Splunk and ELK compare?"
 categories:
   - Observability
+header:
+  teaser: assets/images/splunk-vs-elk/luke-chesser-JKUTrJ4vK00-unsplash.jpg
+  overlay_image: assets/images/splunk-vs-elk/luke-chesser-JKUTrJ4vK00-unsplash.jpg
+  overlay_filter: 0.3
+excerpt: ""
 ---
 
 Splunk and ELK are log management and analysis tools commonly used by enterprises. Here is a list of a few differences and similarities.

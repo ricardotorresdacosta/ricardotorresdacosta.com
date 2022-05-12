@@ -1,9 +1,16 @@
 ---
 title: "What are Non-Functional Requirements? A brief explanation"
+header:
+  teaser: assets/images/non-functional-reqs/will-langenberg-feut78NRNJk-unsplash.jpg
+  overlay_image: assets/images/non-functional-reqs/will-langenberg-feut78NRNJk-unsplash.jpg
+  overlay_filter: 0.5
+excerpt: ""
 categories:
   - Software Architecture
   - Enterprise Architecture
 ---
+
+
 I like to think of Non-Functional Requirements (NFR) as system-wide requirements. Since they are not attached to a specific behaviour or **function** (that's where *functional* comes from) you can also think of them as cross-functional requirements. Here are a couple of examples for the win.
 
 Example 1: An application must be able to log in a user into her own account. Being able to log in is a functional requirement. However, doing so in a secure, fast and simple way has to do with Non-Functional Requirements. Each of these is respectively associated with Security, Performance and Usability.  
