@@ -22,7 +22,7 @@ There are many potential Non-Functional Requirements: accessibility, accountabil
 A bit overwhelming eh? The sheer number of potential requirements contributes to different companies having different definitions of individual Non-Functional Requirements. Indeed, different authors present different definitions. Here, I list a few of the most commonly used ones and provide some pointers to address them.
 
 ### Performance Efficiency
-The most common metric for this NFR is the time response of the system. For example, how long does it take for the page to render, a transaction to complete, etc
+The most common metric for this NFR is the time response of the system. For example, how long does it take for the page to render, a transaction to complete, etc.
 Some actions to improve this NFR can be the setting up of caching procedures or using edge computing.
 
 ### Scalability
@@ -31,7 +31,7 @@ How do you ensure your application will perform under heavy loads?
 For example, can you be confident that your front-end service supports 1,000 concurrent users with under 2 seconds response time in a Chrome browser?
 
 ### Compatibility 
-In this NFR, one can ask whether our software functions well when other applications or features share the same environment. For instance, in a microservices architecture, will add a new service impact the shared global event bus? In a monolith application, will adding a new database provider break the front-end view?
+In this NFR, one can ask whether our software functions well when other applications or features share the same environment. For instance, in a microservices architecture, will adding a new service impact the shared global event bus? In a monolith application, will adding a new database provider break the front-end view?
 
 ### Portability
 Does our application work in different environments? On which operating systems and their versions, will the application be able to run? With which browsers and their versions will the application be compatible? Are there any specific devices and other hardware requirements? Are there any specific networking requirements?
@@ -42,9 +42,9 @@ How hard is it to use the product? How fast is it for users to complete the main
 The most common way to assess usability is with a focus group to provide feedback on the application. Indeed, only testing with real users can reveal the usability problems.
 
 ### Reliability
-What is the probability of failure, or failure rate, of the application during a given period of time? The lowest this indicator, the higher reliability the application showcases. If the system has 85 per cent reliability for a month, this means that during this month, under normal usage conditions, there’s an 85 per cent chance that the system won’t experience critical failure, in other words, for every 100 sessions, 15 are expected to end with an error.
+What is the probability of failure of the application during a given period of time? The lowest this indicator, the higher the reliability of the application. If the system has 95 per cent reliability for a month, this means that during this month, under normal usage conditions, there’s an 95 per cent chance that the system won’t experience critical failure. To calculate this probability is not trivial. Two simpler metrics are the number of failures per period of time and its reverse which is the mean time between failures. 
 
-The best way to measure this before production is to record the number of failures during testing
+The best way to measure this before production is to record the number of failures during testing.
 
 ### Availability
 One can define it as the percentage of time the system is accessible for operation during some time period. For instance, the system may be available 98 per cent of the time during a month. Unlike reliability, which counts the inverse of the number of failures, availability counts the time that the system is up. As such, apart from the frequency of failures (reliability), the critical aspect here is how fast the system can be available again after a failure.
