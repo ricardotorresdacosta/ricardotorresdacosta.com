@@ -12,7 +12,7 @@ header:
 excerpt: ""
 ---
 
-ArgoCD is a declarative GitOps continuous delivery tool built to deploy applications to Kubernetes. The goal of this demo is to install ArgoCD in a Kubernetes Cluster and try out a few of its features.
+ArgoCD is a declarative GitOps continuous delivery tool built to deploy applications to Kubernetes. The goal of this demo is to install ArgoCD in a Kubernetes cluster and try out a few of its features.
 
 Requirements:
 - Minikube
