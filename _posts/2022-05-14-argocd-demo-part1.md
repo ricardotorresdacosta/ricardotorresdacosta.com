@@ -11,14 +11,15 @@ header:
   overlay_filter: 0.5
 excerpt: ""
 ---
-ArgoCD is a declarative GitOps continuous delivery tool built to deploy applications to Kubernetes. The goal of this demos is to install ArgoCD in a Kubernetes Cluster and try out a few of its features.
+
+ArgoCD is a declarative GitOps continuous delivery tool built to deploy applications to Kubernetes. The goal of this demo is to install ArgoCD in a Kubernetes Cluster and try out a few of its features.
 
 Requirements:
 - Minikube
 - kubectl
 - kubeconfig (Minikube creates it automatically in `~/.kube/config`)
 
-I will be following the [ArgoCD getting started guide](https://argo-cd.readthedocs.io/en/stable/getting_started/) for the inital steps.
+I will be following the [ArgoCD getting started guide](https://argo-cd.readthedocs.io/en/stable/getting_started/) for the initial steps.
 
 
 ### 1. Start the Minikube Kubernetes Cluster and Install ArgoCD
@@ -53,7 +54,7 @@ sudo curl -sSL -o /usr/local/bin/argocd \
 https://github.com/argoproj/argo-cd/releases/latest/download/argocd-linux-amd64
 sudo chmod +x /usr/local/bin/argocd
 ```
-Check if the `argocd`binary is working by running
+Check if the `argocd` binary is working by running
 ```bash 
 argocd version
 ```
