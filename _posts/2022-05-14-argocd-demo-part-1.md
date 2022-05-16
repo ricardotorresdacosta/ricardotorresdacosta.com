@@ -94,8 +94,10 @@ kubectl -n argocd get secret argocd-initial-admin-secret \
 -o jsonpath="{.data.password}" | base64 -d; echo
 6aYwomPY5dymRmoP
 ```
-With this password, I can now login into my account's empty dashboard
+With this password, I can now login into my account's empty dashboard.
 
 ![logged-in-dashboard](../assets/images/argocd-tutorial/logged-in-screenshot.png)
 
-So far so good, let's continue on [part 2](https://torresdacosta.com/argocd-demo-part2) of this series.
+Don't forget to delete the Kubernetes secret `argocd-initial-admin-secret` and store the password in a safe location.
+
+So far so good, let's continue on [part 2](https://torresdacosta.com/argocd-demo-part-2) of this series.
