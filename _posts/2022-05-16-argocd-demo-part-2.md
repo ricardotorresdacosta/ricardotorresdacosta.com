@@ -41,9 +41,9 @@ argocd login cd.argoproj.io --sso
 # Configure direct access using Kubernetes API server
 argocd login cd.argoproj.io --core
 ```
-To start off, we want to log in using the initial admin username and password. The `SERVER` is `localhost:8080` because we are port-forwarding the Kubernetes service that exposes it. As such, we run,
+To start off, we want to log in using the initial admin username and password. The `SERVER` is `localhost:8080` because we are port-forwarding the Kubernetes service that exposes the Kubernetes API server. As such, we run,
 ```bash
-argocd login localhost:808043
+argocd login localhost:8080
 ```
 and then input the details
 ```bash
