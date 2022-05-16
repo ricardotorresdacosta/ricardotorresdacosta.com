@@ -17,7 +17,7 @@ This is the continuation of [part 1](https://torresdacosta.com/argocd-demo-part-
 \-- 
 
 ### 4. Login via the CLI
-We can access the server via the browser. However, we also want to be able to talk to it using the CLI.
+On the previous step, we were able to access the server via the browser. However, we also want to be able to talk to it using the CLI.
 
 There are different ways to log in.
 

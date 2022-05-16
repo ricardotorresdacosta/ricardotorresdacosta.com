@@ -1,5 +1,5 @@
 ---
-title: "A step-by-step ArgoCD demo for beginners (PART 1)"
+title: "A step-by-step ArgoCD demo for beginners (Part 1)"
 categories:
   - GitOps
   - CI/CD
