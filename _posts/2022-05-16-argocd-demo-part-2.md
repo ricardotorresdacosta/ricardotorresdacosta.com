@@ -54,12 +54,12 @@ Password:
 Context 'localhost:8080' updated
 ```
 
-We're in. Now, let's change the default password to `poor-password`.
+We're in. Before we forget, let's change the default password to something else, for example `poor-password`.
 
 ```bash
 argocd account update-password
 ```
-I can now probably get some more information from my account. 
+We can also now probably get some more information from my account. 
 ```bash
 argocd account get-user-info
 Logged In: true
@@ -79,7 +79,7 @@ NONE
 
 ### 5. Register a Cluster to deploy apps to
 
-Now, the fun begins. Let's connect our ArgoCD installation to a Kubernetes cluster. We are keeping things simple, so let's connect to the cluster where ArgoCD itself is running. To provide ArgoCD with the target Kubernetes cluster context (here it's `minikube`), we run
+Now, the fun begins. Let's connect our ArgoCD installation to a Kubernetes cluster. We are keeping things simple, so let's connect to the cluster where ArgoCD itself is running. To provide ArgoCD with the target Kubernetes cluster context name (here it's `minikube`), we run
 ```bash
 argocd cluster add minikube
 WARNING: This will create a service account `argocd-manager` on the cluster referenced by context `minikube` with full cluster level admin privileges. Do you want to continue [y/N]? y
@@ -89,7 +89,7 @@ INFO[0004] ClusterRoleBinding "argocd-manager-role-binding" created
 Cluster 'https://192.168.49.2:8443' added
 
 ```
-This command creates a service account which is bound to an admin level cluster role to allow ArgoCD to do its work. You can get its details by running
+If you are wondering where the cluster API server IP address comes from, it's from the kubeconfig file stored locally which matches it with the context `minikube`. As for the command we just ran, it creates a service account which is bound to an admin level cluster role to allow ArgoCD to do its work. You can get its details by running
 ```bash
 k get clusterrolebindings.rbac.authorization.k8s.io \
    argocd-manager-role-binding -o yaml
