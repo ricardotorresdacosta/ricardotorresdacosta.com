@@ -8,7 +8,7 @@ categories:
 header:
  teaser: ../assets/images/jan-antonin-kolar-lRoX0shwjUQ-unsplash_640x444.jpg
  overlay_image: ../assets/images/jan-antonin-kolar-lRoX0shwjUQ-unsplash_2400x1666.jpg
-#  overlay_filter: 0.5
+ overlay_filter: 0.5
 excerpt: ""
 ---
 
