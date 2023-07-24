@@ -81,8 +81,8 @@ From Red Hat's [RHCSA exam objectives page](https://www.redhat.com/en/services/t
 
 
 ### Create hard and soft links
-- Hard links create multiple directory entries that all refer to the same **inode** and share the same data blocks on the disk.  All hard links to a file are **essentially the same file**, and there is no distinction between the original file and its hard links. If the original file is deleted, the hard link will still exist and maintain access to the file's data. The data will only be removed once all hard links to the file are deleted.
-- Soft links (aka symbolic links, aka symlinks) create a new file that acts as a pointer to the target file or directory.  If you access a soft link, it will redirect you to the target file or directory.
+- Hard links create multiple directory entries that all refer to the same **inode** and share the same data blocks on the disk.  All hard links to a file are **essentially the same file**, and there is no distinction between the original file and its hard links. If the original file is deleted, the hard link will still exist and maintain access to the file's data. The data will only be removed once all hard links to the file are deleted. Hard links do not occupy additional disk space. All hard links share the same data blocks on the disk.
+- Soft links (aka symbolic links, aka symlinks) create a new file that acts as a pointer to the target file or directory. If you access a soft link, it will redirect you to the target file or directory. If the target file or directory of a soft link is deleted or moved, the soft link becomes a "dangling symlink," and attempting to access it will result in a broken link. Soft links occupy a small amount of disk space (equal to the path length) to store the link information.
 ### List, set, and change standard ugo/rwx permissions
 ### Locate, read, and use system documentation including man, info, and files in /usr/share/doc
 ## Create simple shell scripts
