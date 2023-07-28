@@ -1,8 +1,8 @@
 ---
 title: "Ideias Radicais para a Reforma Eleitoral "
 header:
-  teaser: ../assets/images/politicians.jpg
-  overlay_image: ../assets/images/politicians.jpg
+  teaser: ../assets/images/reforma_eleitoral.png
+  overlay_image: ../assets/images/reforma_eleitoral.png
   overlay_filter: 0.5
 toc: true
 excerpt: ""
