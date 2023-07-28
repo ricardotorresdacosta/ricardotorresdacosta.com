@@ -7,5 +7,7 @@ main:
     # url: /tags/
   - title: "Talks"
     url: /talks/
+  - title: "Ensaios"
+    url: /ensaios/
   - title: "About"
     url: /about/

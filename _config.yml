@@ -84,13 +84,13 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/torresdacosta"
+      url: "https://github.com/ricardotorresdacosta"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"  
       url: "https://linkedin.com/in/ricardo-torres-da-costa"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ricardoptcosta"
+      url: "https://twitter.com/rictdc"
 
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
