@@ -1,14 +1,13 @@
 ---
 title: "Como ter melhores políticos?"
-categories:
-  - Ensaios
-#toc: true
+toc: true
 # classes: wide
 header:
   teaser: ../assets/images/politicians.jpg
   overlay_image: ../assets/images/politicians.jpg
   overlay_filter: 0.5
 excerpt: ""
+order: 1
 ---
 
 Este ensaio pretende clarificar algumas ideias em torno da discussão da baixa qualidade dos políticos em Portugal. Em primeiro lugar procurarei entender o porquê desta percepção. Depois como fazer que os políticos alterem as suas prioridades para dar maior enfoque ao longo prazo. Seguidamente, que reformas eleitorais podem contribuir para isso.

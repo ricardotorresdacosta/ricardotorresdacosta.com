@@ -1,14 +1,12 @@
 ---
 title: "Ideias Radicais para a Reforma Eleitoral "
-categories:
-  - Ensaios
-#toc: true
-# classes: wide
 header:
   teaser: ../assets/images/politicians.jpg
   overlay_image: ../assets/images/politicians.jpg
   overlay_filter: 0.5
+toc: true
 excerpt: ""
+order: 2
 ---
 Esta listagem aumenta o detalhe dado no ensaio [Como ter melhores políticos?](https://ricardotorresdacosta.com/como-ter-melhores-politicos/)  
 
