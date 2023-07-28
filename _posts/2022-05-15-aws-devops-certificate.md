@@ -3,7 +3,7 @@ title: "Should I sit the AWS Certified DevOps Engineer Professional Exam? "
 categories:
   - AWS
   - DevOps
-#toc: true
+toc: true
 # classes: wide
 header:
   teaser: assets/images/aws-devops-certificate/ivars-utinans-vkQgb1lZZPQ-unsplash.jpg

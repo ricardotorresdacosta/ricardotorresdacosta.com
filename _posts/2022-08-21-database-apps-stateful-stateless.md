@@ -3,7 +3,7 @@ title: "Are all applications with a database stateful?"
 categories:
   - Kubernetes
   - Software Architecture
-#toc: true
+toc: true
 # classes: wide
 header:
  teaser: ../assets/images/jan-antonin-kolar-lRoX0shwjUQ-unsplash_640x444.jpg

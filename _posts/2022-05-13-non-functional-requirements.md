@@ -8,6 +8,7 @@ excerpt: ""
 categories:
   - Software Architecture
   - Enterprise Architecture
+toc: true
 ---
 
 

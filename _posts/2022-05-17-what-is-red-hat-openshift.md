@@ -4,7 +4,7 @@ categories:
   - Kubernetes
   - OpenShift
   - Enterprise
-#toc: true
+toc: true
 # classes: wide
 header:
   teaser: assets/images/openshift/andreea-petruti-HCy06_Nerwc-unsplash.jpg

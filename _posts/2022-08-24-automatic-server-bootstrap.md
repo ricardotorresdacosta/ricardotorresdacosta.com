@@ -4,7 +4,7 @@ categories:
   - Homelab
   - Linux
   - Ansible
-#toc: true
+toc: true
 # classes: wide
 header:
   teaser: ../assets/images/lenny-kuhne-jHZ70nRk7Ns-unsplash_640x426.jpg

@@ -3,7 +3,7 @@ title: "A step-by-step ArgoCD demo for beginners (PART 2)"
 categories:
   - GitOps
   - CI/CD
-#toc: true
+toc: true
 # classes: wide
 header:
   teaser: assets/images/argocd-tutorial/jonathan-diemel-3CxVpFO739c-unsplash.jpg

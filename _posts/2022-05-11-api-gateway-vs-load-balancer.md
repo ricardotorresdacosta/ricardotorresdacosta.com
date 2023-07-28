@@ -7,6 +7,7 @@ header:
   overlay_image: assets/images/api-loadbalancer/ddp-F_aEVgymKEo-unsplash.jpg
   overlay_filter: 0.5
 excerpt: ""
+toc: true
 ---
 
 [In the previous post](https://torresdacosta.com/api-gateway-vs-service-mesh), I clarified the difference between an API Gateway and a Service Mesh. However, another common question is the difference between an API Gateway and a Load Balancer. After all, both sit in front of the back end and direct incoming traffic. While that is true, they work in different ways and at different abstraction levels. 

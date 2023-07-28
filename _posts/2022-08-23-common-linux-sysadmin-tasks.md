@@ -3,7 +3,7 @@ title: "What are the basic tasks a Linux Sysadmin should do on her homelab?"
 categories:
   - Linux
   - Homelab
-#toc: true
+toc: true
 # classes: wide
 header:
  teaser: ../assets/images/deva-darshan-Jt9syHEhrPE-unsplash_640x364.jpg 

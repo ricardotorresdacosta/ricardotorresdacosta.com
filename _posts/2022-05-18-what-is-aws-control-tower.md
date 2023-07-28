@@ -3,7 +3,7 @@ title: "What is AWS Control Tower?"
 categories:
   - AWS
   - DevOps
-#toc: true
+toc: true
 # classes: wide
 header:
   teaser: assets/images/aws-control-tower/tim-mossholder-p_Hw00UrHPE-unsplash .jpg

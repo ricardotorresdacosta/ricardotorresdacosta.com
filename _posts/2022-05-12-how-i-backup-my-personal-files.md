@@ -9,6 +9,7 @@ categories:
   - Tips
   - Personal Organization
   - Shell/Bash
+toc: true
 ---
 
 A topic I struggled with for many years was how to back up my personal files. This took place before knowing about the wonders of version control. In those dark days, I would make a backup of the state of my hard drive on a given date. Sometime later I would do another copy, and so on. After a few times, I would start deleting the older folders. This was a manual, clunky and error-prone approach. Invariably, the weakness of this process would lead me to do backups very rarely and even stop it altogether.
