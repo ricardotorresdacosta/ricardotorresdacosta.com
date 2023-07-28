@@ -15,9 +15,11 @@ layout: archive
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
-	  {% unless post.categories contains 'Ensaios' or post.categories contains 'Talks' %}
-    	{% include archive-single.html type=entries_layout %}
-		{% endunless %}
+    {% if post.categories contains 'Ensaios' or post.categories contains 'Talks' %}
+      {% continue %}
+    {% else %}
+      {% include archive-single.html type=entries_layout %}
+    {% endif %}
   {% endfor %}
 </div>
 
