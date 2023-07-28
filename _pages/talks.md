@@ -4,6 +4,7 @@ layout: category
 permalink: /talks/
 author_profile: true
 taxonomy: Talks
+classes: wide
 ---
 
 <style>
@@ -13,8 +14,8 @@ taxonomy: Talks
     justify-content: space-around;
 }
 .video-container {
-    flex: 0 0 30%; /* percentage for the column width */
-    margin-bottom: 20px;
+    flex: 0 0 45%; /* percentage for the column width */
+    /* margin-bottom: 20px; */
 }
 .video-container h2 {
     font-size: 1em; /* adjust this to change the size of the title */
