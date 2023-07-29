@@ -115,14 +115,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _ensaios
-  - scope:
-      path: ""
-      type: ensaios
-    values:
-      layout: single
-      author_profile: true
-      share: true
 
 category_archive:
   type: liquid
@@ -130,8 +122,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-collections:
-  ensaios:
-    output: true
-    permalink: /:collection/:path/
