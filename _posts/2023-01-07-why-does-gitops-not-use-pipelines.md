@@ -2,7 +2,7 @@
 title: "Why does Gitops not use pipelines?"
 categories:
   - Category 1
-toc: true
+# toc: true
 # classes: wide
 header:
   teaser: assets/images/gitops-pipelines.png
