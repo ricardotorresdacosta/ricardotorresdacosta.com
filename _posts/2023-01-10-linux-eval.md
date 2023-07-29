@@ -2,6 +2,7 @@
 title: "What, why, how is `eval` command in shell?"
 categories:
   - Linux
+  - Shell/Bash
 toc: true
 # classes: wide
 header:

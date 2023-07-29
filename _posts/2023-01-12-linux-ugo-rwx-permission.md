@@ -2,6 +2,7 @@
 title: "A primer on file permissions in Linux"
 categories:
   - Linux
+  - Shell/Bash
 toc: true
 # classes: wide
 header:

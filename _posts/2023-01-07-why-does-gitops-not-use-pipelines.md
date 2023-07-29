@@ -1,7 +1,9 @@
 ---
 title: "Why does Gitops not use pipelines?"
 categories:
-  - Category 1
+  - GitOps
+  - CI/CD
+  - Kubernetes
 # toc: true
 # classes: wide
 header:
