@@ -35,7 +35,7 @@ The next nine characters represent the permissions for the User (`rwx`), Group (
 
 You can use the `chmod` command to change the permissions of a file. You can do this in one of **two ways**:
 
-## Symbolic method: 
+## Symbolic method
 
 This method involves using u, g, o (User, Group, Other) and r, w, x (Read, Write, Execute), along with operators + (add), - (remove), = (set exactly). For example:
 
@@ -43,7 +43,7 @@ This method involves using u, g, o (User, Group, Other) and r, w, x (Read, Write
 - `chmod g-w myfile.txt` removes write permission for the group.
 - `chmod o=r myfile.txt` sets the other's permissions to read only.
 
-## Numeric (or octal) method: 
+## Numeric (or octal) method
 
 This method involves using numbers to represent permissions: 4 stands for read, 2 for write, and 1 for execute. You can add these numbers together to get combinations of permissions. For example, 7 (4+2+1) stands for read, write, and execute. The order is again User, Group, Other. For example:
 
