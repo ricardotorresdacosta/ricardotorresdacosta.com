@@ -29,7 +29,7 @@ Output redirections send output streams of a process to a file while input redir
   - this operator redirects both stdout and stderr to the same file.  
    
 `<` is the **input redirection operator**. 
-  - it's used to send the contents of a file as input to a command. **Instead of using the keyboard to provide input to the stdin file descriptor, you are using a file as input**. For example, to send the contents of input.txt as input to sort, you can write: 
+  - it's used to send the contents of a file as input to a command. **Instead of using the keyboard to provide input to the stdin file descriptor, you are using a file as input**. For example, to send the contents of `input.txt` as input to sort, you can write: 
     ```bash 
     $ sort < input.txt
     ```

@@ -1,5 +1,5 @@
 ---
-title: "Why does Gitops not use pipelines?"
+title: "Why does GitOps not use pipelines?"
 categories:
   - GitOps
   - CI/CD
