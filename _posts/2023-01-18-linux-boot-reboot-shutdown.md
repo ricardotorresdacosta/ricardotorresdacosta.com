@@ -2,16 +2,19 @@
 title: "Boot, reboot, and shut down a system normally"
 categories:
   - Linux
-  - Shell/Bash
+  - Red Hat Certified System Administrator Exam
+
 # classes: wide
 toc: true
 header:
   teaser: ../assets/images/david-clode-cUGNFbxxD1E-unsplash_640x424.jpg
   overlay_image: ../assets/images/david-clode-cUGNFbxxD1E-unsplash _1920x1273.jpg
   overlay_filter: 0.5
+  show_overlay_excerpt: false
 excerpt: ""
 review: 0
 ---
+
 # Commands to Reboot the System
 
 1. `reboot`: This command is a simple, direct way to reboot your system.
@@ -42,7 +45,7 @@ review: 0
 
 1. `systemctl poweroff`: This systemctl command will power off the system.
 
-Note: In some contexts, `shutdown` and `power off` are used interchangeably. In others, `shutdown`` refers to stopping all processes, while `power off`` refers to actually turning off the power to the machine. The behavior of these commands can sometimes vary depending on your specific system configuration.
+Note: In some contexts, `shutdown` and `power off` are used interchangeably. In others, `shutdown` refers to stopping all processes, while `power off` refers to actually turning off the power to the machine. The behavior of these commands can sometimes vary depending on your specific system configuration.
 
 # Why so many options that seem to do the same?
 

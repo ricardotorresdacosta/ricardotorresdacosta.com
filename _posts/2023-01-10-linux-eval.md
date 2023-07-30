@@ -9,7 +9,8 @@ header:
   teaser: ../assets/images/linux_eval.jpg
   overlay_image: ../assets/images/linux_eval.jpg
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+excerpt: "`eval` is a built-in command in most Unix-like operating systems, such as Linux. It comes from the `sh` (Bourne shell) programming language, which was one of the original Unix shells. The `eval` command is included in all POSIX-compliant shells, which means it's available in modern shells like `bash`, `zsh`, and others."
 review: 0
 ---
 

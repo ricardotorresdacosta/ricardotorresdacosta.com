@@ -9,7 +9,8 @@ header:
   teaser: assets/images/argocd-tutorial/jonathan-diemel-3CxVpFO739c-unsplash.jpg
   overlay_image: assets/images/argocd-tutorial/jonathan-diemel-3CxVpFO739c-unsplash.jpg
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 ---
 
 This is the continuation of [part 1](https://torresdacosta.com/argocd-demo-part-1) of this series.

@@ -9,7 +9,8 @@ header:
  teaser: ../assets/images/deva-darshan-Jt9syHEhrPE-unsplash_640x364.jpg 
  overlay_image: ../assets/images/deva-darshan-Jt9syHEhrPE-unsplash_2400x1367.jpg
  overlay_filter: 0.5
-excerpt: ""
+ show_overlay_excerpt: false
+# excerpt: ""
 ---
 
 One of the things I want to work on is my Linux Sysadmin skills. Linux supports much of cloud native ecosystem, namely Kubernetes. It is helpful to have a certain degree of mastery of this operating system. Linux has many distributions and it is a great idea to toy with different ones. 

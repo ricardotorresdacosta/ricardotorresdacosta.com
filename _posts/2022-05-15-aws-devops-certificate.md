@@ -9,7 +9,8 @@ header:
   teaser: assets/images/aws-devops-certificate/ivars-utinans-vkQgb1lZZPQ-unsplash.jpg
   overlay_image: assets/images/aws-devops-certificate/ivars-utinans-vkQgb1lZZPQ-unsplash.jpg
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 ---
 
 I am currently thinking about whether it would be interesting to sit [this exam](https://aws.amazon.com/certification/certified-devops-engineer-professional/). DevOps is a topic dear to me. As for AWS, it's a provider I am quite familiar with and currently has the largest market share in the cloud computing industry. Indeed, this is a very sought after credential and very valued by the market. However, I have to be very careful with what I commit to, as these days my available time is very scarce. Before I make this decision I thought about getting an overview of the topics covered. Whence, this article.

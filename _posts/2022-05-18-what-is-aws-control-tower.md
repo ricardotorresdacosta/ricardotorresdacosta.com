@@ -9,7 +9,8 @@ header:
   teaser: assets/images/aws-control-tower/tim-mossholder-p_Hw00UrHPE-unsplash .jpg
   overlay_image: assets/images/aws-control-tower/tim-mossholder-p_Hw00UrHPE-unsplash .jpg
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 ---
 
 The official website introduces [AWS Control Tower](https://aws.amazon.com/controltower) in the following way: *AWS Control Tower provides the easiest way to set up and govern a secure, **multi-account** AWS environment, called a landing zone.* This is an AWS native service providing a pre-defined set of blueprints and guardrails. This is different from [AWS Landing Zone](https://aws.amazon.com/solutions/implementations/aws-landing-zone/) in that the latter is more customizable and usually implemented by AWS partner companies. AWS Control Tower is meant to be easy and self-service.

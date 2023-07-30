@@ -2,14 +2,15 @@
 title: "A primer on file permissions in Linux"
 categories:
   - Linux
-  - Shell/Bash
+  - Red Hat Certified System Administrator Exam
 toc: true
 # classes: wide
 header:
   teaser: ../assets/images/linux-file-permissions.jpg
   overlay_image: ../assets/images/linux-file-permissions.jpg
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 review: 0
 ---
 

@@ -9,7 +9,8 @@ header:
   teaser: assets/images/argocd-tutorial/jonathan-diemel-3CxVpFO739c-unsplash.jpg
   overlay_image: assets/images/argocd-tutorial/jonathan-diemel-3CxVpFO739c-unsplash.jpg
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 ---
 
 ArgoCD is a declarative GitOps continuous delivery tool built to deploy applications to Kubernetes. The goal of this demo is to install ArgoCD in a Kubernetes cluster and try out a few of its features.

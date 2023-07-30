@@ -2,13 +2,14 @@
 title: "Basic input-output redirection in Linux"
 categories:
   - Linux
-  - Shell/Bash
+  - Red Hat Certified System Administrator Exam
 # classes: wide
 header:
   teaser: ../assets/images/javier-allegue-barros-C7B-ExXpOIE-unsplash_640x430.jpg
   overlay_image: ../assets/images/javier-allegue-barros-C7B-ExXpOIE-unsplash_5434x3623.jpg
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 review: 0
 ---
 Output redirections send output streams of a process to a file while input redirections send the content of a given file to the input stream of a process. See here an explanation on some of the basic input-output operators in Linux. 

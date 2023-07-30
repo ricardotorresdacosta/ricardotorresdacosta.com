@@ -10,7 +10,8 @@ header:
   teaser: ../assets/images/lenny-kuhne-jHZ70nRk7Ns-unsplash_640x426.jpg
   overlay_image: ../assets/images/lenny-kuhne-jHZ70nRk7Ns-unsplash_large.jpg
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 ---
 
 A goal I always have in mind is to automate as much as possible what I do. That's the case for sure on my homelab and I have no problem erring on the overkill. It's fun and it's a great learning experience. In the days of Infrastructure as Code, server provisioning and configuration is all the rage. The first automation I did in my homelab was to automate the configuration of my Ubuntu servers after having them installed manually on the machines. This is what I am going over in this post. The configuration settings I'm automating are simple, however, they are labour intensive if done manually. After the first time, *nobody ain't got time for that*.

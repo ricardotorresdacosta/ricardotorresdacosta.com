@@ -6,7 +6,8 @@ header:
   teaser: assets/images/service-mesh/tengyart-jERbb8EK6Ks-unsplash.jpg
   overlay_image: assets/images/service-mesh/tengyart-jERbb8EK6Ks-unsplash.jpg
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 toc: true
 ---
 Both terms are common in the development of Cloud Native applications. They both deal with inter-application communication but they are not the same.

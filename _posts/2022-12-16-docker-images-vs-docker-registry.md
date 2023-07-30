@@ -8,7 +8,8 @@ header:
   teaser: assets/images/docker-registry.png
   overlay_image: assets/images/docker-registry.png
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 ---
 Whether you should have a Docker registry or not depends on your specific use case and requirements. Let's understand the differences and purposes of both Docker images and Docker registries to help you make an informed decision.
 

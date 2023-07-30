@@ -10,7 +10,8 @@ header:
   teaser: assets/images/gitops-pipelines.png
   overlay_image: assets/images/gitops-pipelines.png
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 review: 1
 ---
 

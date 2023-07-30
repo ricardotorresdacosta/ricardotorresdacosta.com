@@ -5,8 +5,9 @@ categories:
 header:
   teaser: assets/images/splunk-vs-elk/luke-chesser-JKUTrJ4vK00-unsplash.jpg
   overlay_image: assets/images/splunk-vs-elk/luke-chesser-JKUTrJ4vK00-unsplash.jpg
-  overlay_filter: 0.3
-excerpt: ""
+  overlay_filter: 0.5
+  show_overlay_excerpt: false
+# excerpt: ""
 toc: true
 ---
 

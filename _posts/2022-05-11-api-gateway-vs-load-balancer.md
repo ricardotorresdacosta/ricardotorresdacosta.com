@@ -6,11 +6,12 @@ header:
   teaser: assets/images/api-loadbalancer/ddp-F_aEVgymKEo-unsplash.jpg
   overlay_image: assets/images/api-loadbalancer/ddp-F_aEVgymKEo-unsplash.jpg
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 toc: true
 ---
 
-[In the previous post](https://torresdacosta.com/api-gateway-vs-service-mesh), I clarified the difference between an API Gateway and a Service Mesh. However, another common question is the difference between an API Gateway and a Load Balancer. After all, both sit in front of the back end and direct incoming traffic. While that is true, they work in different ways and at different abstraction levels. 
+[In the previous post](https://ricardotorresdacosta.com/api-gateway-vs-service-mesh), I clarified the difference between an API Gateway and a Service Mesh. However, another common question is the difference between an API Gateway and a Load Balancer. After all, both sit in front of the back end and direct incoming traffic. While that is true, they work in different ways and at different abstraction levels. 
 
 A Load Balancer directs traffic to different instances of the same type of asset. The simplest example is a cluster of servers. By means of an algorithm (eg. round-robin), as more connections are made, the load balancer *balances* the traffic across the different servers. This leads to gains in responsiveness and availability of services.  
 

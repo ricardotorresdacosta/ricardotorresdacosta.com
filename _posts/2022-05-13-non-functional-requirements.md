@@ -4,13 +4,13 @@ header:
   teaser: assets/images/non-functional-reqs/will-langenberg-feut78NRNJk-unsplash.jpg
   overlay_image: assets/images/non-functional-reqs/will-langenberg-feut78NRNJk-unsplash.jpg
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 categories:
   - Software Architecture
   - Enterprise Architecture
 toc: true
 ---
-
 
 I like to think of Non-Functional Requirements (NFR) as system-wide requirements. Since they are not attached to a specific behaviour or **function** (that's where *functional* comes from) you can also think of them as cross-functional requirements. Here are a couple of examples for the win.
 

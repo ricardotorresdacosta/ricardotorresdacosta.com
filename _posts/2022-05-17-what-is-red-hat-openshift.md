@@ -10,7 +10,8 @@ header:
   teaser: assets/images/openshift/andreea-petruti-HCy06_Nerwc-unsplash.jpg
   overlay_image: assets/images/openshift/andreea-petruti-HCy06_Nerwc-unsplash.jpg
   overlay_filter: 0.5
-excerpt: ""
+  show_overlay_excerpt: false
+# excerpt: ""
 ---
 
 OpenShift is a Red Hat product that builds a façade on top of Kubernetes. It takes an opinionated approach to Kubernetes with the goal of reducing the time teams spend trying to figure it out. OpenShift is an Enterprise offering with support guaranteed by Red Hat.

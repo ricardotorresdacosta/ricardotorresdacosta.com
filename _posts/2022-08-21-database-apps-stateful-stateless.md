@@ -9,9 +9,9 @@ header:
  teaser: ../assets/images/jan-antonin-kolar-lRoX0shwjUQ-unsplash_640x444.jpg
  overlay_image: ../assets/images/jan-antonin-kolar-lRoX0shwjUQ-unsplash_2400x1666.jpg
  overlay_filter: 0.5
-excerpt: ""
+ show_overlay_excerpt: false
+# excerpt: ""
 ---
-
 
 For some time this got me confused. There is much to be said about the advantages of stateless applications. Availability and resilience are much easier to achieve with this type of application. Indeed, Kubernetes, the work-horse for many of us in the cloud native industry, was designed with stateless applications in mind. It was only in Kubernetes `1.5` that the `statefulset` resource was introduced and in `1.9` it became `stable`.
 
