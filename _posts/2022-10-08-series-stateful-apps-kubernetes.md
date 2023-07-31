@@ -33,6 +33,9 @@ Kubernetes is an orchestration platform that has become a standard for deploying
 Learning about stateful applications in Kubernetes can help you better design, deploy, and manage applications, ensuring they run reliably and efficiently. It's a valuable addition to the skillset of any software engineer, systems administrator, or DevOps professional.
 
 # Deep dive into Stateful Apps in Kubernetes for 60 days
+
+I drafted the following plan and will add links to each topic as I progress.
+
 ## Week 1-2: Introduction to stateful applications and StatefulSets
 
 **Day 1-3**: Basics of stateful applications

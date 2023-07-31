@@ -49,7 +49,7 @@ Learning about databases not only equips you with a critical skill set, but it a
 
 # Learn about Databases in 30 days
 
-This plan assumes that you already have a basic understanding of computer science and programming.
+This plan assumes that you already have a basic understanding of computer science and programming. I drafted the following plan and will add links to each topic as I progress.
 
 ## Week 1: Understanding the Basics
 
