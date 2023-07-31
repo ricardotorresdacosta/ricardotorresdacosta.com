@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: rictdc
 github_username: ricardotorresdacosta
 minimal_mistakes_skin: dark
+logo: "/assets/images/logo.png"
 search: true
 google_analytics: G-4EPJW4YRDH
 
@@ -107,6 +108,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
