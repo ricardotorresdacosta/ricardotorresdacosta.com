@@ -61,7 +61,6 @@ passwd
 ```
 
 9. Relabel the File System: If you're running SELinux, you also need to relabel the file system to avoid potential permission issues:
-
 ```bash
 touch /.autorelabel
 ```
