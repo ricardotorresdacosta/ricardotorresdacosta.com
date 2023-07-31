@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
   show_overlay_excerpt: false
 # excerpt: ""
-toc: true
+# toc: true
 ---
 Both terms are common in the development of Cloud Native applications. They both deal with inter-application communication but they are not the same.
 
