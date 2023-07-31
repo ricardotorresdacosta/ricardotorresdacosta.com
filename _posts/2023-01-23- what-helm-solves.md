@@ -14,9 +14,9 @@ review: 0
 excerpt: "Helm is a package manager for Kubernetes, which is an open-source platform for automating the deployment, scaling, and management of containerized applications. Helm helps in managing Kubernetes applications and addresses several important problems:"
 ---
 
-# What is Helm?
+# What is Helm and what does it solve?
 
-Helm is a package manager for Kubernetes, which is an open-source platform for automating the deployment, scaling, and management of containerized applications. Helm helps in managing Kubernetes applications and addresses several important problems:
+Helm is a package manager for Kubernetes, which is an open-source platform for automating the deployment, scaling, and management of containerized applications. Helm helps in managing Kubernetes applications and **addresses several important problems**:
 
 **Complexity of deployment**: Kubernetes deployments can be complicated with numerous YAML files for services, pods, volumes, and other resources. Helm packages all of these into a single entity known as a chart. Thus, Helm makes deployments easier and more convenient by simplifying the management of Kubernetes applications. The crucial difference with deploying directly the original YAML manifests is that these files in a Helm chart are organized and managed as a cohesive unit.
 
