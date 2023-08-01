@@ -1,5 +1,5 @@
 ---
-title: "30 Day Series - Databases"
+title: "30-Day Series - Databases"
 categories:
   - Series
   - Data
@@ -13,7 +13,7 @@ header:
 review: 0
 excerpt: "In the context of computing, a database is an organized collection of data that can be easily accessed, managed, and updated. Databases are used to hold information like text, numbers, images, and other types of data. The main purpose of a database is to operate large amounts of information by storing, retrieving, and managing data efficiently." 
 ---
-If you want to jump straight to the 30 day plan click [here](#learn-about-databases-in-30-days).
+If you want to jump straight to the 30-day plan click [here](#learn-about-databases-in-30-days).
 
 # What is a database?
 

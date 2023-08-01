@@ -1,5 +1,5 @@
 ---
-title: "30 Day Series - Learn Helm"
+title: "30-Day Series - Learn Helm"
 categories:
   - Series
   - Helm
@@ -16,7 +16,7 @@ excerpt: "Week 1: Introduction and Basics. Week 2: Charting and Releases. Week 3
 
 See [this post](https://ricardotorresdacosta.com/what-helm-solves/) to have a gentle overview of why Helm exists.
 
-# 30 Day Plan to learn Helm
+# 30-Day Plan to learn Helm
 I drafted the following plan and will add links to each topic as I progress.
 ## Week 1: Introduction and Basics
 

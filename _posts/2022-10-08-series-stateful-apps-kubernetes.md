@@ -1,5 +1,5 @@
 ---
-title: "60 Day Series - Stateful Apps in Kubernetes"
+title: "60-Day Series - Stateful Apps in Kubernetes"
 categories:
   - Series
   - Kubernetes
@@ -14,7 +14,7 @@ header:
 review: 0
 excerpt: "Kubernetes is an orchestration platform that has become a standard for deploying and managing containerized applications, including both stateless and stateful applications. Here are a few reasons why it's important to learn about stateful applications in Kubernetes:" 
 ---
-If you want to jump straight to the 60 day plan click [here](#deep-dive-into-stateful-apps-in-kubernetes-for-60-days).
+If you want to jump straight to the 60-day plan click [here](#deep-dive-into-stateful-apps-in-kubernetes-for-60-days).
 
 # Why should I learn about stateful apps in Kubernetes?
 

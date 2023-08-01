@@ -1,5 +1,5 @@
 ---
-title: "30 Day Series - Learn Kustomize"
+title: "30-Day Series - Learn Kustomize"
 categories:
   - Series
   - Kustomize
@@ -16,7 +16,7 @@ excerpt: "Week 1: Introduction and Basics. Week 2: Charting and Releases. Week 3
 
 See [this post](https://ricardotorresdacosta.com/what-kustomize-solves/) to have a gentle overview of why Kustomize exists and [this one](https://ricardotorresdacosta.com/helm-vs-kustomize/) to see how it compares to Helm.
 
-# 30 Day Plan to learn Kustomize
+# 30-Day Plan to learn Kustomize
 I drafted the following plan and will add links to each topic as I progress.
 ## Week 1: Introduction to Kustomize and YAML
 

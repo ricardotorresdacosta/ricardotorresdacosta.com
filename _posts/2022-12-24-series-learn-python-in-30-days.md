@@ -1,5 +1,5 @@
 ---
-title: "30 Day Series - Learn Python"
+title: "30-Day Series - Learn Python"
 categories:
   - Series
   - Python
@@ -13,7 +13,7 @@ header:
 review: 0
 excerpt: "Python is an ubiquitous language used in software development. It is a high-level, interpreted, and general-purpose programming language. It was created by Guido van Rossum and first released in 1991. Python is known for its simplicity, readability, and versatility, making it a popular choice for a wide range of applications."
 ---
-If you want to jump straight to the 30 day plan to learn Python click [here](#30-day-plan-to-learn-the-basics-of-python).
+If you want to jump straight to the 30-day plan to learn Python click [here](#30-day-plan-to-learn-the-basics-of-python).
 
 # What is Python?
 Python is an ubiquitous language used in software development. It is a high-level, interpreted, and general-purpose programming language. It was created by Guido van Rossum and first released in 1991. Python is known for its simplicity, readability, and versatility, making it a popular choice for a wide range of applications.
@@ -64,7 +64,7 @@ Some of the industries where Python is particularly popular and widely used incl
 
 **Community-driven**: Python has a large and active community of developers who contribute to its growth and maintenance. This has resulted in a rich ecosystem of third-party libraries and frameworks that extend the language's capabilities.
 
-# 30 day plan to learn the basics of Python
+# 30-day plan to learn the basics of Python
 I drafted the following plan and will add links to each topic as I progress.
 
 ## Week 1: Basic Python and Environment Setup
