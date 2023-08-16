@@ -99,6 +99,6 @@ helm install my-chart . -f values.staging.yaml
 helm install my-chart . -f values.prod.yaml
 ```
 
-Helm will use the values from the environment-specific file, falling back to the defaults in values.yaml for any values that aren't specified in the environment-specific file.
+Helm will use the values from the environment-specific file, falling back to the defaults in `values.yaml` for any values that aren't specified in the environment-specific file.
 
 This is just one way to handle multiple environments with Helm. Depending on your requirements and how complex your deployments are, you may want to manage environments differently. But in general, the pattern is the same: provide a set of default values, then override those defaults for specific environments.
