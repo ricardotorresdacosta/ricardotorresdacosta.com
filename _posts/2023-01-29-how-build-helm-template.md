@@ -25,7 +25,7 @@ They are written in the Go template language, with some additional functions pro
 The templating system allows you to parameterize your applications and make them highly configurable, so instead of manually creating each manifest for each environment, you can create a set of templates and then substitute the values based on your current environment or requirements. This provides a lot of flexibility and scalability when deploying applications on Kubernetes.
 
 Here's an example template from a Helm chart's `service.yaml`:
-
+{% raw %}
 ```yaml
 apiVersion: v1
 kind: Service
@@ -42,8 +42,9 @@ spec:
     app.kubernetes.io/name: {{ include "mychart.name" . }}
     app.kubernetes.io/instance: {{ .Release.Name }}
 ```
-In this example, Helm will substitute `{{ include "mychart.fullname" . }}` with the full name of the release, `{{ .Values.service.type }}` with the type of service, `{{ .Values.service.port }}` with the port number, and so forth. These values are typically defined in the `values.yaml` file, or they can be overridden at the command line when the chart is installed.
 
+In this example, Helm will substitute `{{ include "mychart.fullname" . }}` with the full name of the release, `{{ .Values.service.type }}` with the type of service, `{{ .Values.service.port }}` with the port number, and so forth. These values are typically defined in the `values.yaml` file, or they can be overridden at the command line when the chart is installed.
+{% endraw %}
 # How to use the same template for different environments?
 
 Helm's `values.yaml` file is typically used to manage configurations for different environments (like development, staging, and production). It allows you to specify default configuration values, which can be overridden by individual environment files.
