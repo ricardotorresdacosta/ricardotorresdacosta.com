@@ -20,30 +20,30 @@ See [this post](https://ricardotorresdacosta.com/what-helm-solves/) to have a ge
 I drafted the following plan and will content to each topic in this page as I progress.
 ## Week 1: Introduction and Basics
 
-- [**Day 1-3**](#day-1-3): Learn the basics of Kubernetes and why Helm is necessary. Install Helm and setup your environment. Understand basic Helm commands.
-- [**Day 4-6**](#day-4-6): Learn what a Helm Chart is. Understand the structure of a Helm Chart. Start creating a basic Helm Chart.
-- **Day 7**: Review the concepts learnt and practice them.
+- [**Days 1-3**](#days-1-3): Learn the basics of Kubernetes and why Helm is necessary. Install Helm and setup your environment. Understand basic Helm commands.
+- [**Days 4-6**](#days-4-6): Learn what a Helm Chart is. Understand the structure of a Helm Chart. Start creating a basic Helm Chart.
+- **Days 7**: Review the concepts learnt and practice them.
 ## Week 2: Charting and Releases
 
-- [**Day 8-10**](#day-8-10): Learn how to use Helm templates. Understand Helm functions and pipelines. Explore Helm dependencies and managing multiple charts.
-- **Day 11-13**: Learn how Helm manages releases and their lifecycle. Practice installing, upgrading, and rolling back releases. Understand how to check the status and history of a release.
-- **Day 14**: Review the concepts learnt and practice them.
+- [**Days 8-10**](#days-8-10): Learn how to use Helm templates. Understand Helm functions and pipelines. Explore Helm dependencies and managing multiple charts.
+- **Days 11-13**: Learn how Helm manages releases and their lifecycle. Practice installing, upgrading, and rolling back releases. Understand how to check the status and history of a release.
+- **Days 14**: Review the concepts learnt and practice them.
 ## Week 3: Customizing Charts and Security
 
-- **Day 15-17**: Use Helm Hub/Artifact Hub to search and install public charts. Learn how to customize public charts with a values file.
-- **Day 18-20**: Learn how to secure your Helm installation. Understand how to sign and verify Helm charts. Learn Helm best practices.
-- **Day 21**: Review the concepts learnt and practice them.
+- **Days 15-17**: Use Helm Hub/Artifact Hub to search and install public charts. Learn how to customize public charts with a values file.
+- **Days 18-20**: Learn how to secure your Helm installation. Understand how to sign and verify Helm charts. Learn Helm best practices.
+- **Days 21**: Review the concepts learnt and practice them.
 ## Week 4: Repositories and Plugins
 
-- **Day 22-24**: Learn how to create your own Helm Chart repoasitory. Understand how to package and host your charts. Learn how to use GitHub Pages for hosting Helm charts.
-- **Day 25-27**: Learn about Helm plugins and how to use them. Understand how to manage cluster-wide resources with Helm. Learn how to use Helm with CI/CD pipelines.
-- **Day 28**: Review the concepts learnt and practice them.
+- **Days 22-24**: Learn how to create your own Helm Chart repoasitory. Understand how to package and host your charts. Learn how to use GitHub Pages for hosting Helm charts.
+- **Days 25-27**: Learn about Helm plugins and how to use them. Understand how to manage cluster-wide resources with Helm. Learn how to use Helm with CI/CD pipelines.
+- **Days28**: Review the concepts learnt and practice them.
 ## Week 5: Review and Practical Application
 
-- **Day 29**: Build and deploy a real-world application using Helm Charts.
-- **Day 30**: Participate in Q&A forums, contribute to open-source Helm projects, read official docs and blogs for advanced understanding.
+- **Days 29**: Build and deploy a real-world application using Helm Charts.
+- **Days 30**: Participate in Q&A forums, contribute to open-source Helm projects, read official docs and blogs for advanced understanding.
 
-# **Day 1-3** 
+# **Days 1-3** 
 [(Back to plan)](#30-day-plan-to-learn-helm)
 
 **Goal**: Learn the basics of Kubernetes and why Helm is necessary. Install Helm and setup your environment. Understand basic Helm commands.
@@ -138,7 +138,7 @@ Putting that in the browser should display the familiar Nginx welcome page!
 1. Taking Advantage of New Features: When newer versions of applications (or the charts that deploy them) introduce new features, you can use helm upgrade to deploy these new features.
 
 
-# **Day 4-6** 
+# **Days 4-6** 
 [(Back to plan)](#30-day-plan-to-learn-helm)
 
 **Goal**: Learn what a Helm Chart is. Understand the structure of a Helm Chart. Start creating a basic Helm Chart.
