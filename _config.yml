@@ -16,8 +16,7 @@
 title: Ricardo Torres da Costa
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal blog of Ricardo Torres da Costa, where I collect 
-  and publish some of my thoughts and notes on Cloud Native Technologies. 
+  This is my personal blog, where I collect and publish some of my thoughts and notes on Cloud Native Technologies. 
 twitter_username: rictdc
 github_username: ricardotorresdacosta
 minimal_mistakes_skin: dark
