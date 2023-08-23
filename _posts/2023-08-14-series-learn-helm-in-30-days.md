@@ -17,7 +17,7 @@ excerpt: "Week 1: Introduction and Basics. Week 2: Charting and Releases. Week 3
 See [this post](https://ricardotorresdacosta.com/what-helm-solves/) to have a gentle overview of why Helm exists.
 
 # 30-Day Plan to learn Helm
-I drafted the following plan and will content to each topic in this page as I progress.
+I drafted the following plan and will add content to each topic in this page as I progress.
 ## Week 1: Introduction and Basics
 
 - [**Days 1-3**](#days-1-3): Learn the basics of Kubernetes and why Helm is necessary. Install Helm and setup your environment. Understand basic Helm commands.

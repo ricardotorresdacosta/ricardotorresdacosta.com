@@ -11,7 +11,7 @@ header:
   overlay_filter: 0.5
   show_overlay_excerpt: false
 review: 0
-excerpt: "Week 1: Introduction and Basics. Week 2: Charting and Releases. Week 3: Customizing Charts and Security. Week 4: Repositories and Plugins "
+excerpt: "Week 1: Introduction to Kustomize and YAML. Week 2: Understanding and Setting Up Kustomize. Week 3: Hands-on Practice and Advanced Topics. Week 4: Review and Mastery "
 ---
 
 See [this post](https://ricardotorresdacosta.com/what-kustomize-solves/) to have a gentle overview of why Kustomize exists and [this one](https://ricardotorresdacosta.com/helm-vs-kustomize/) to see how it compares to Helm.
