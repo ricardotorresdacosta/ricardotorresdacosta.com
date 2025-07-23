@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ricardo Torres da Costa
+url: "https://ricardotorresdacosta.com"  
+baseurl: ""                               
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog, where I collect and publish some of my thoughts and notes on Cloud Native Technologies. 
